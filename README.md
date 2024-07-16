@@ -1,0 +1,1 @@
+bài 2 phần pretrained SOTA và áp dụng DCN chưa xong
